@@ -1,0 +1,7 @@
+id: D3_fastapi_included_router
+type: docs
+title: fastapi 0.137 wraps included routers; app.routes items no longer have .path
+held_out: true
+released: 2026-06-14
+library: fastapi 0.136.3 -> 0.137.0
+editable: ["agent/agent.py"]

@@ -1,0 +1,7 @@
+id: D2_mcp_server_rename
+type: docs
+title: mcp 2.0 renamed FastMCP to MCPServer (mcp.server.mcpserver)
+held_out: false
+released: 2026-07-28
+library: mcp 1.27.2 -> 2.0.0
+editable: ["agent/agent.py"]

@@ -1,0 +1,7 @@
+id: D4_numpy_cross_2d
+type: docs
+title: numpy 2.5 removed np.cross on 2-D vectors
+held_out: false
+released: 2026-06-21
+library: numpy 2.4.4 -> 2.5.0
+editable: ["agent/agent.py"]

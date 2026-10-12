@@ -1,0 +1,7 @@
+id: D5_pydantic_ai_usage
+type: docs
+title: pydantic-ai 2.0: result.usage is a property; request_tokens renamed input_tokens
+held_out: false
+released: 2026-06-23
+library: pydantic-ai-slim 1.107.0 -> 2.0.0
+editable: ["agent/agent.py"]

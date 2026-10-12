@@ -1,0 +1,7 @@
+id: D1_anthropic_temperature
+type: docs
+title: anthropic 1.0 removed temperature= from messages.create
+held_out: false
+released: 2026-08-20
+library: anthropic 0.125.0 -> 1.0.0
+editable: ["agent/agent.py"]
