@@ -1,0 +1,5 @@
+id: 05_swallowed_error
+type: general
+title: Tool wrapper swallows a transient timeout and the agent answers 'unknown'
+held_out: false
+editable: ["agent/agent.py"]

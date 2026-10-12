@@ -1,0 +1,5 @@
+id: 04_context_truncation
+type: general
+title: Memory trimming drops the newest message instead of the oldest
+held_out: false
+editable: ["agent/agent.py"]

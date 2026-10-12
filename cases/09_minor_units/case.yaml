@@ -1,0 +1,5 @@
+id: 09_minor_units
+type: general
+title: Payments agent treats an amount in kobo as naira (held-out)
+held_out: true
+editable: ["agent/agent.py"]

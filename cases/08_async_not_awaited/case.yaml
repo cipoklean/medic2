@@ -1,0 +1,5 @@
+id: 08_async_not_awaited
+type: general
+title: Async tools called without await; the agent reports coroutine objects
+held_out: false
+editable: ["agent/agent.py"]
