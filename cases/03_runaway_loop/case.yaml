@@ -1,5 +1,5 @@
 id: 03_runaway_loop
 type: general
-title: ReAct loop never stops: it listens for the wrong finish signal
+title: "ReAct loop never stops: it listens for the wrong finish signal"
 held_out: false
 editable: ["agent/agent.py"]

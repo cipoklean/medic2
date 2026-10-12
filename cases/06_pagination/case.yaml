@@ -1,5 +1,5 @@
 id: 06_pagination
 type: general
-title: Agent reads only the first page of a paginated tool
+title: "Agent reads only the first page of a paginated tool"
 held_out: false
 editable: ["agent/agent.py"]

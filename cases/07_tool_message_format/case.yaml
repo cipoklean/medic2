@@ -1,5 +1,5 @@
 id: 07_tool_message_format
 type: general
-title: Tool result message is missing tool_call_id, so the API rejects the turn
+title: "Tool result message is missing tool_call_id, so the API rejects the turn"
 held_out: false
 editable: ["agent/agent.py"]

@@ -1,7 +1,7 @@
 # Copy this folder to Dn_<name>/ for a docs-dependent case. Folders starting with "_" are skipped.
 id: D1_TODO
 type: docs
-title: TODO (library X removed/renamed Y in version Z)
+title: "TODO (library X removed/renamed Y in version Z)"
 held_out: false
 released: TODO  # release date of the breaking version; must be after Nemotron 3 Ultra's knowledge cutoff
 editable: ["agent/**/*.py"]

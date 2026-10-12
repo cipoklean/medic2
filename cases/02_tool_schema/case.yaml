@@ -1,5 +1,5 @@
 id: 02_tool_schema
 type: general
-title: Tool schema declares the wrong argument name and type
+title: "Tool schema declares the wrong argument name and type"
 held_out: false
 editable: ["agent/agent.py"]
