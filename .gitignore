@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+runs/*.json
+!runs/.gitkeep
+.medic_work/

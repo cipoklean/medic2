@@ -1,0 +1,10 @@
+[project]
+name = "medic2"
+version = "0.1.0"
+description = "Self-healing agent: Nemotron on Nebius Token Factory + Tavily fix broken AI agents, verified by deterministic checks."
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["httpx>=0.27", "pyyaml>=6", "rich>=13", "fastapi>=0.110", "uvicorn>=0.29"]
+
+[project.scripts]
+medic = "medic.cli:main"

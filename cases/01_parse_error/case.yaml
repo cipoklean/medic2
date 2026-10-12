@@ -1,0 +1,5 @@
+id: 01_parse_error
+type: general
+title: Agent crashes on a tool reply with a trailing comma
+held_out: false
+editable: ["agent/agent.py"]
